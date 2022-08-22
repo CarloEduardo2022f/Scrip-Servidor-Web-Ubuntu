@@ -34,6 +34,5 @@ echo "Operação realizada com Sucesso."
 
 # Copaindo arquivos da aplicação para a pasta do servidor apache
 echo "Movendo arquivos para a pasta do apache..."
-cp -r -f * /var/www/html/index.html
+cp -r -f * /var/www/html/
 echo "Operação realizada com Sucesso."
-
